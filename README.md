@@ -1,3 +1,3 @@
 # CvRelieve
 
-![Diagram](Untitled&#32;Diagram.drawio.svg)
+![Diagram](Untitled&#x20;Diagram.drawio.svg)
